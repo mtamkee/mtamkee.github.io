@@ -80,7 +80,7 @@ div#about_us h1 {
 div#about_us p {
     display: inline-block;
     border: #000000;
-    font-family: "Sans-serif";
+    font-family: "Verdana";
     text-align: justify;
     font-size: 20px;
 }
@@ -95,7 +95,7 @@ div#brands h1 {
 div#brands p {
     display: inline-block;
     border: #000000;
-    font-family: "Sans-serif";
+    font-family: "Verdana";
     text-align: justify;
     font-size: 20px;
 }
@@ -157,16 +157,12 @@ div#find_us p{
     font-family: "Verdana";
     font-size: 30px;
     text-align: center;
-    padding-right: 1em;
-    padding-left: 1em;
 }
 
 
 #mountain_bikes td {
     font-family: "Verdana";
     font-size: 20px;
-    padding-right: 1em;
-    padding-left: 1em;
     border-right: black;
     text-align: center;
 }
@@ -177,16 +173,12 @@ div#find_us p{
     font-family: "Verdana";
     font-size: 30px;
     text-align: center;
-    padding-right: 1em;
-    padding-left: 1em;
 }
 
 
 #helmet td {
     font-family: "Verdana";
     font-size: 20px;
-    padding-right: 1em;
-    padding-left: 1em;
     border-right: black;
     text-align: center;
 }
@@ -197,16 +189,12 @@ div#find_us p{
     font-family: "Verdana";
     font-size: 30px;
     text-align: center;
-    padding-right: 1em;
-    padding-left: 1em;
 }
 
 
 #accessories td {
     font-family: "Verdana";
     font-size: 20px;
-    padding-right: 1em;
-    padding-left: 1em;
     border-right: black;
     text-align: center;
 }
@@ -217,16 +205,12 @@ div#find_us p{
     font-family: "Verdana";
     font-size: 30px;
     text-align: center;
-    padding-right: 1em;
-    padding-left: 1em;
 }
 
 
 #shoes td {
     font-family: "Verdana";
     font-size: 20px;
-    padding-right: 1em;
-    padding-left: 1em;
     border-right: black;
     text-align: center;
 }
@@ -237,39 +221,17 @@ div#find_us p{
     font-family: "Verdana";
     font-size: 30px;
     text-align: center;
-    padding-right: 1em;
-    padding-left: 1em;
+    
 }
 
 
 #road_bikes td {
     font-family: "Verdana";
     font-size: 20px;
-    padding-right: 1em;
-    padding-left: 1em;
     border-right: black;
     text-align: center;
 }
-#road_bikes th {
-    margin-left: auto;
-    margin-right: auto;
-    background-color: white;
-    font-family: "Verdana";
-    font-size: 30px;
-    text-align: center;
-    padding-right: 1em;
-    padding-left: 1em;
-}
 
-
-#road_bikes td {
-    font-family: "Verdana";
-    font-size: 20px;
-    padding-right: 1em;
-    padding-left: 1em;
-    border-right: black;
-    text-align: center;
-}
 
 
 .package_levels table {
