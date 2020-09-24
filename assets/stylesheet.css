@@ -1,9 +1,6 @@
 body {
     background-color: #ffffff;
 }
-a.hover {
-    background-color: magenta;
-}
 
 .text_box {
     width: 75%;
@@ -141,15 +138,8 @@ div#service h1{
     font-size: 35px;
     text-align: center;
 }
-div#footer {
-    background-color: black;
-    opacity: 80%;
-    height: 5%;
-}
-div#find_us p{
-    color: FFFFFF;
-    font-family: Verdana;
-}
+
+
 #mountain_bikes th {
     margin-left: auto;
     margin-right: auto;
@@ -285,11 +275,24 @@ div#top-bar li p {
     padding: 10px 20px;
     text-decoration: none;
 }
-div#top-bar li a,h3, h4, h6 {
+div#top-bar li a,h3, h4 {
     display: block;
     color: black;
     text-align: center;
     padding: 0px 25px;
     text-decoration: none;
 }
+footer {
+    text-align: center;
+    padding: 15px 0px;
+    background-color: #086A87;
+    color: white;
+}
 
+footer p {
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 20px;
+    font-family: "Verdana";
+    color: white;
+}
